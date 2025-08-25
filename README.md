@@ -24,7 +24,7 @@ Ideal for showcasing products and learning front-end development.
    ```bash
    cd E-commerce-Site
 
-3.Open index.html in your browser.
+3. Open index.html in your browser.
 
 
 ## 🖼 Screenshots
