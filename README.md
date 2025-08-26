@@ -1,5 +1,5 @@
 🌐 Demo
-Explore the live version: https://zingerw1.github.io/E-commerce-Site/
+Explore the live version: https://zingerw1.github.io/UnwindApparel/
 
 # Unwind Apparel an E-commerce Site 🛒
 
